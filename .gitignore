@@ -1,0 +1,22 @@
+# Source
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+# C extensions
+*.so
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+# Virtual env
+.venv/
+venv/
+# Data / saves / encodings (run artifacts)
+data/
+saves/
+encodings/
+*.ptmodel
+# Logs
+*.txt
+!README.md
